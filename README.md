@@ -53,9 +53,6 @@ Bu proje, FIFA Dünya Kupası maç verilerini içeren bir veri seti üzerinde ç
 2. Yeni özellikler ekleyin veya hataları düzeltin.
 3. Pull request gönderin.
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ---
 © 2024 Dünya Kupası Analizi Projesi. Tüm hakları saklıdır.
